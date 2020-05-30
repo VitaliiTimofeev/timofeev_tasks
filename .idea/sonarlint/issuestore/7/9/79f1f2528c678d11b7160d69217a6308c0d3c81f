@@ -1,0 +1,6 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö®›“øÿÿÿÿ
+Isquid:S1481"&Remove this unused "m" local variable.(Óåİİüÿÿÿÿ8˜•¥¦.
+Isquid:S1481"&Remove this unused "n" local variable.(£ø‘ñúÿÿÿÿ8á¦Š¥¦.
+Xsquid:S1854"5Remove this useless assignment to local variable "m".(Óåİİüÿÿÿÿ8˜•¥¦.
+Xsquid:S1854"5Remove this useless assignment to local variable "n".(£ø‘ñúÿÿÿÿ8À·‰¥¦.
